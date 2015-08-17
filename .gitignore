@@ -1,0 +1,11 @@
+
+
+#Visual Studio files
+*.opensdf
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
